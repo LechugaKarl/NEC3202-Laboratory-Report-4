@@ -47,44 +47,64 @@ ________________________________________________________________________________
 Types of Antenna:
 - Helix Antenna
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/1.spiral%20antenna.jpg?raw=true)
+  
 - Ground Plane
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/2.ground%20plane.jpg?raw=true)
+  
 - Simple Dipole
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/3.simple%20dipole.jpg?raw=true)
+  
 - Paraboloid Simple Dipole
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/4.paraboloid%20simple%20dipole.jpg?raw=true)
+  
 - Simple Dipole $\lambda$ / 2
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/5.%20simple%20dipole%20lambda%20over%202.jpg?raw=true)
+  
 - Phase Array
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/6.phase%20array.jpg?raw=true)
+  
 - Hertz Antenna
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/7.hertz%20antenna.jpg?raw=true)
+  
 - Dipole
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/8.dipole.jpg?raw=true)
+  
 - Loop Antenna
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/9.loop%20antenna.jpg?raw=true)
+  
 - Yagi Uda Simple 5 Elements
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/10.yagi%20uda%20simple%20elements.jpg?raw=true)
+  
 - Yagi Uda Folded Dipole
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/11.yagi%20uda%20folded%20dipole.jpg?raw=true)
+  
 - Phase Array $\lambda$ / 2
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/12.phase%20array%20lambda%20over%202.jpg?raw=true)
+  
 - Periodic Antenna
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/13.periodic%20antenna.jpg?raw=true)
+  
 - Detector
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/14.detector.jpg?raw=true)
+  
 - Combined Collinear Array
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/15.combined%20collinear%20array.jpg?raw=true)
+  
 - Yagi Uda Folded Dipole 5 Elements
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/16.yagi%20uda%20folded%20dipole%205%20element.jpg?raw=true)
+  
 - Zeppline Antenna
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/17.zeppline%20antenna.jpg?raw=true)
+  
 - Broad Side Antenna
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/18.broad%20side%20array.jpg?raw=true)
+  
 - Matching Stub for antenna trainer
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/19.matching%20stub.jpg?raw=true)
+  
 - Transmitting Mast
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/20.transmitting%20mast.jpg?raw=true)
+  
 - Antenna Trainer
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/21.antenna%20trainer.jpg?raw=true)
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
