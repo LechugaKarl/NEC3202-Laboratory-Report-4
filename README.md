@@ -23,28 +23,28 @@ ________________________________________________________________________________
 Antennas: Parts and Functionality
 An antenna is a transducer that converts electrical current into electromagnetic waves (and vice versa). While shapes vary, most antennas share these core functional parts.
 - The Radiating Element: The physical conductor where the current flows to create the electromagnetic field. Its length is usually a fraction of the wavelength (e.g., $\lambda/2$ for a dipole).
-  ![Image Alt]()
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/1.radiating%20element.jpg?raw=true)
 - The Feed Point: The location where the signal from the transmitter enters the antenna. Matching the impedance at this point is critical to prevent power reflecting back to the source.
-  ![Image Alt]()
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/2.feed%20point.jpg?raw=true)
 - The Director and Reflector (Parasitic Elements): Found in antennas like the Yagi-Uda, these do not connect to the power source. They shape the signal, focusing it in one direction to increase the gain.
-  ![Image Alt]()
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/3.director%20and%20reflector.jpg?raw=true)
 - The Aperture: In a horn antenna, this is the mouth or opening. The size of the aperture determines how narrow the beam will be.
-  ![Image Alt]()
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/4.aperture.jpg?raw=true)
 - Mounting Bracket/Rotator: Used to change the polarization (horizontal or vertical) and the azimuth/elevation to align with a receiver.
-  ![Image Alt]()
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/5.mounting%20bracket.jpg?raw=true)
 
 Waveguides: Parts and Functionality
 Waveguides act as the pipes for electromagnetic waves. Because they are hollow, they have very low loss and can handle high power levels.
 - Rectangular Pipe (The Body): The hollow metal tube itself. The internal width and height are precisely calculated to support specific modes of wave travel. It contains and guides the electromagnetic field through its hollow interior using internal reflections.
-  ![Image Alt]()
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/6.%20rectangular%20pipe.jpg?raw=true)
 - Flanges: The flat, circular, or rectangular plates at the ends of a waveguide section. They allow different waveguide components (bends, couplers, or antennas) to be bolted together with a perfect, airtight seal to prevent signal leakage.
-  ![Image Alt]()
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/7.flanges.jpg?raw=true)
 - Waveguide Bends (E-plane and H-plane): Specialized curved sections used to change the direction of the signal path. They allow for a 90° turn while maintaining the internal geometry so the wave does not reflect back toward the transmitter.
-  ![Image Alt]()
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/8.waveguide%20bends.jpg?raw=true)
 - Twist Section: A section of waveguide that has been physically twisted, usually by 90°. It is used to change the polarization of the wave (shifting it from vertical to horizontal) without needing to rotate the entire system.
-  ![Image Alt]()
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/9.twist.jpg?raw=true)
 - Attenuators and Slotted Lines: Components that sit inside or along the waveguide. Attenuators reduce signal power for testing, while slotted lines allow a probe to be inserted to measure the "standing wave" inside the tube.
-  ![Image Alt]()
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/10.attenuator.jpg?raw=true)
 OUTPUT:
 
 ![Image Alt]()
