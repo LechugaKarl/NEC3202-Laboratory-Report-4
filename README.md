@@ -10,6 +10,7 @@ The Antenna and Waveguide Trainer serves as the bridge between guided and unguid
 Unlike standard wires, waveguides are hollow metallic structures that rely on the geometry of their internal dimensions to "guide" electromagnetic fields. At the termination of a waveguide system, various antenna geometries—such as horns, dipoles, or paraboloids—are used to shape the radiation pattern. This experiment provides a hands-on introduction to the physical design, mounting interfaces, and specialized materials required to handle signals in the Gigahertz (GHz) range.
 
 ![Image Alt]()
+![Image Alt]()
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -64,12 +65,8 @@ Waveguides act as the pipes for electromagnetic waves. Because they are hollow, 
 - Attenuators and Slotted Lines: Components that sit inside or along the waveguide. Attenuators reduce signal power for testing, while slotted lines allow a probe to be inserted to measure the "standing wave" inside the tube.
   
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/10.attenuator.jpg?raw=true)
+
   
-OUTPUT:
-
-
-![Image Alt]()
-
 LEARNINGS:
 
 The most significant takeaway from inspecting the physical hardware is that geometry is everything. In low-frequency electronics, a wire is a wire regardless of how it is bent. However, in microwave engineering, the internal width of the waveguide determines the Cut-off Frequency if the frequency is too low, the signal simply will not pass through the tube.We also learned about Impedance Matching. A horn antenna isn't just a funnel; it is a transformer that gradually changes the impedance of the waveguide to match the impedance of air ($377\text{ }\Omega$). Without this flare, most of the signal would bounce off the opening and return to the transmitter. Finally, seeing the high-polish finish inside the waveguides taught us that Skin Effect is real; the signal travels on the very surface of the metal, so the smoother the surface, the better the transmission.
