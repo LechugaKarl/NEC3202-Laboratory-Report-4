@@ -16,18 +16,35 @@ ________________________________________________________________________________
 OBJECTIVES:
 
 - Identify Microwave Hardware Components: To recognize and name the various physical modules of a waveguide system, including rectangular sections, bends (E-plane and H-plane), twists, and flanges.
-- Analyze Antenna Architecture: To examine the mechanical parts of different antenna types—such as the Dipole, Yagi-Uda, and Pyramidal Horn—and understand how their physical geometry influences signal radiation.
+- Analyze Antenna Architecture: To examine the mechanical parts of different antenna types—such as the Dipole, Yagi-Uda, and Pyramidal Horn and understand how their physical geometry influences signal radiation.
 - Understand Waveguide Functionality: To study the role of the waveguide's hollow interior and internal surface finish in guiding electromagnetic energy at microwave frequencies.
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Antennas: Parts and Functionality
 An antenna is a transducer that converts electrical current into electromagnetic waves (and vice versa). While shapes vary, most antennas share these core functional parts.
 - The Radiating Element: The physical conductor where the current flows to create the electromagnetic field. Its length is usually a fraction of the wavelength (e.g., $\lambda/2$ for a dipole).
-- The Feed Point: The location where the signal from the transmitter enters the antenna. Matching the "impedance" at this point is critical to prevent power reflecting back to the source.
-- The Director and Reflector (Parasitic Elements): Found in antennas like the Yagi-Uda, these do not connect to the power source. They "shape" the signal, focusing it in one direction to increase the gain.
-- The Aperture: In a horn antenna, this is the "mouth" or opening. The size of the aperture determines how narrow the beam will be.
+  ![Image Alt]()
+- The Feed Point: The location where the signal from the transmitter enters the antenna. Matching the impedance at this point is critical to prevent power reflecting back to the source.
+  ![Image Alt]()
+- The Director and Reflector (Parasitic Elements): Found in antennas like the Yagi-Uda, these do not connect to the power source. They shape the signal, focusing it in one direction to increase the gain.
+  ![Image Alt]()
+- The Aperture: In a horn antenna, this is the mouth or opening. The size of the aperture determines how narrow the beam will be.
+  ![Image Alt]()
 - Mounting Bracket/Rotator: Used to change the polarization (horizontal or vertical) and the azimuth/elevation to align with a receiver.
+  ![Image Alt]()
 
+Waveguides: Parts and Functionality
+Waveguides act as the pipes for electromagnetic waves. Because they are hollow, they have very low loss and can handle high power levels.
+- Rectangular Pipe (The Body): The hollow metal tube itself. The internal width and height are precisely calculated to support specific modes of wave travel. It contains and guides the electromagnetic field through its hollow interior using internal reflections.
+  ![Image Alt]()
+- Flanges: The flat, circular, or rectangular plates at the ends of a waveguide section. They allow different waveguide components (bends, couplers, or antennas) to be bolted together with a perfect, airtight seal to prevent signal leakage.
+  ![Image Alt]()
+- Waveguide Bends (E-plane and H-plane): Specialized curved sections used to change the direction of the signal path. They allow for a 90° turn while maintaining the internal geometry so the wave does not reflect back toward the transmitter.
+  ![Image Alt]()
+- Twist Section: A section of waveguide that has been physically twisted, usually by 90°. It is used to change the polarization of the wave (shifting it from vertical to horizontal) without needing to rotate the entire system.
+  ![Image Alt]()
+- Attenuators and Slotted Lines: Components that sit inside or along the waveguide. Attenuators reduce signal power for testing, while slotted lines allow a probe to be inserted to measure the "standing wave" inside the tube.
+  ![Image Alt]()
 OUTPUT:
 
 ![Image Alt]()
