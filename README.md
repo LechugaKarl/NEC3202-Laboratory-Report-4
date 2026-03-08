@@ -9,8 +9,8 @@ INTRODUCTION:
 The Antenna and Waveguide Trainer serves as the bridge between guided and unguided wave propagation. In modern communications, waveguides are used to transport high-frequency microwave signals with minimal loss, while antennas act as the transducers that launch these signals into free space.
 Unlike standard wires, waveguides are hollow metallic structures that rely on the geometry of their internal dimensions to "guide" electromagnetic fields. At the termination of a waveguide system, various antenna geometries—such as horns, dipoles, or paraboloids—are used to shape the radiation pattern. This experiment provides a hands-on introduction to the physical design, mounting interfaces, and specialized materials required to handle signals in the Gigahertz (GHz) range.
 
-![Image Alt]()
-![Image Alt]()
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/antenna%20setup.jpg?raw=true)
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/waveguide%20setup.jpg?raw=true)
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -42,7 +42,52 @@ An antenna is a transducer that converts electrical current into electromagnetic
 - Mounting Bracket/Rotator: Used to change the polarization (horizontal or vertical) and the azimuth/elevation to align with a receiver.
   
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/5.mounting%20bracket.jpg?raw=true)
-  
+________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Types of Antenna:
+- Helix Antenna
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/1.spiral%20antenna.jpg?raw=true)
+- Ground Plane
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/2.ground%20plane.jpg?raw=true)
+- Simple Dipole
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/3.simple%20dipole.jpg?raw=true)
+- Paraboloid Simple Dipole
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/4.paraboloid%20simple%20dipole.jpg?raw=true)
+- Simple Dipole $\lambda$ / 2
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/5.%20simple%20dipole%20lambda%20over%202.jpg?raw=true)
+- Phase Array
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/6.phase%20array.jpg?raw=true)
+- Hertz Antenna
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/7.hertz%20antenna.jpg?raw=true)
+- Dipole
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/8.dipole.jpg?raw=true)
+- Loop Antenna
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/9.loop%20antenna.jpg?raw=true)
+- Yagi Uda Simple 5 Elements
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/10.yagi%20uda%20simple%20elements.jpg?raw=true)
+- Yagi Uda Folded Dipole
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/11.yagi%20uda%20folded%20dipole.jpg?raw=true)
+- Phase Array $\lambda$ / 2
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/12.phase%20array%20lambda%20over%202.jpg?raw=true)
+- Periodic Antenna
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/13.periodic%20antenna.jpg?raw=true)
+- Detector
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/14.detector.jpg?raw=true)
+- Combined Collinear Array
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/15.combined%20collinear%20array.jpg?raw=true)
+- Yagi Uda Folded Dipole 5 Elements
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/16.yagi%20uda%20folded%20dipole%205%20element.jpg?raw=true)
+- Zeppline Antenna
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/17.zeppline%20antenna.jpg?raw=true)
+- Broad Side Antenna
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/18.broad%20side%20array.jpg?raw=true)
+- Matching Stub for antenna trainer
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/19.matching%20stub.jpg?raw=true)
+- Transmitting Mast
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/20.transmitting%20mast.jpg?raw=true)
+- Antenna Trainer
+  ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/21.antenna%20trainer.jpg?raw=true)
+________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Waveguides: Parts and Functionality
 Waveguides act as the pipes for electromagnetic waves. Because they are hollow, they have very low loss and can handle high power levels.
@@ -65,6 +110,7 @@ Waveguides act as the pipes for electromagnetic waves. Because they are hollow, 
 - Attenuators and Slotted Lines: Components that sit inside or along the waveguide. Attenuators reduce signal power for testing, while slotted lines allow a probe to be inserted to measure the "standing wave" inside the tube.
   
   ![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-4/blob/main/assets/10.attenuator.jpg?raw=true)
+________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
   
 LEARNINGS:
